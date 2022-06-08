@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://xalianxupu.github.io/kamis-3/sitemap3.xml
